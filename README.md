@@ -1,5 +1,6 @@
-# Ruby on Rails Tutorial sample application
-# bluilding app by me!
+# MicroPosts!!
+# a sample application based on Ruby on Rails Tutorial
+
 
 This is the sample application for
 [*Ruby on Rails Tutorial:
@@ -40,3 +41,9 @@ $ rails server
 
 For more information, see the
 [*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
+
+## Notice
+This sample Not use Gem fog!!
+All images is stored in /images
+A cloud storage is a featured included in the next Sample Version 
+
