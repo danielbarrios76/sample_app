@@ -1,5 +1,5 @@
 # MicroPosts!!
-# a sample application based on Ruby on Rails Tutorial
+## a sample application based on Ruby on Rails Tutorial
 
 
 This is the sample application for
@@ -43,7 +43,16 @@ For more information, see the
 [*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
 
 ## Notice
+
 This sample Not use Gem fog!!
+
 All images is stored in /images
+
 A cloud storage is a featured included in the next Sample Version 
+
+A fully functional version of this application is at glacial-hamlet-38240.herokuapp.com
+
+
+
+
 
