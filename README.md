@@ -50,7 +50,8 @@ All images is stored in /images
 
 A cloud storage is a featured included in the next Sample Version 
 
-A fully functional version of this application is at glacial-hamlet-38240.herokuapp.com
+A fully functional version of this application is at 
+[*glacial-hamlet-38240.herokuapp.com*](https://glacial-hamlet-38204.herokuapp.com)
 
 
 
